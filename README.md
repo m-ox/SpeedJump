@@ -1,4 +1,4 @@
-# SpeedJump-for-Bottega
+# SpeedJump-for-Devcamp
 
 A light Chrome extension that adds
 jump back,
