@@ -1,4 +1,4 @@
-# SpeedJump-for-Devcamp
+# SpeedJump
 
 A light Chrome extension that adds
 jump back,
