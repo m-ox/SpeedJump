@@ -6,11 +6,11 @@ jump forward,
 speed increment
 and speed decrement options!
 
-Originally built for DevCamp videos so I can fine tune my viewing speed for optimal crunching of information.
-Due to how the extension searches generally for SPECIFICALLY and GENERALLY all video elements on the DOM,
+Originally built to watch my curriculum faster. Because why wouldn't you let students inject education into their brain faster if they can handle it?
+Due to how the extension searches generally for SPECIFICALLY and GENERALLY all <video/> elements on the DOM,
 it reportedly works for many other applications.
 
-I consider the occasional being able to speed up the occasional sidebar video ad of a mobile game to unrecognizable amounts to be an unintended a feature, not a bug.
+I consider the occasional "being able to speed up the occasional sidebar video ad of a mobile game to unrecognizable amounts" as an unintended feature, not a bug. ¯\_(ツ)_/¯
 
 ~~ Hot Key Guide ~~
 
