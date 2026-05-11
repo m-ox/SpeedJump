@@ -203,6 +203,7 @@ function createButtons() {
         const buttonStyles = `
             position: relative;
             width: 50px;
+            height: 50px;
             font-size: .5rem;
             border: 0px none;
             padding: 5px;
@@ -211,18 +212,20 @@ function createButtons() {
             border-radius: 5px 10px;
             font-weight: 600;
             cursor: pointer;
-            bottom: 100px;
             opacity: 30%;
+            align-content: center;
         `;
 
         const parentDivStyle = `
             display: grid;
             width: 50px;
             height: 200px;
-            grid-template-columns: 1fr 1fr;
+            grid-template-columns: 1fr 1fr 1fr;
             position: relative;
             bottom: 100px;
             z-index: 999999;
+            padding-left: .5rem;
+            gap: .25rem;
         `;
 
         myPersonalVideoControls.id = 'sj-video-controls';
