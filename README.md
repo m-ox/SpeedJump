@@ -6,6 +6,13 @@ jump forward,
 speed increment
 and speed decrement options!
 
+The source is now written in TypeScript in `speedjump.ts`. Build the extension before loading it by running:
+
+```bash
+npm install
+npm run build
+```
+
 Originally built to watch my curriculum faster. Because why wouldn't you let students inject education into their brain faster if they can handle it?
 Due to how the extension searches generally for SPECIFICALLY and GENERALLY all video elements on the DOM, it reportedly works for many other applications.
 
